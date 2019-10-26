@@ -1,0 +1,20 @@
+! version = 2.0
+
+
++ my name is *
+- <set name=<formal>>Nice to meet you, <get name>.
+
++ where are you from
+- I'm from Germany.
+
++ how are you
+- I'm fine. Thank you.
+
++ *
+- Sorry, but I don't understand.
+
++ what is your favorite colour
+- My favorite colour is blue. 
+
++ do you like coding
+- Yes. I like Python and Rivescript.
