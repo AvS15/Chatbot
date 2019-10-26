@@ -1,1 +1,1 @@
-"# Using Rivescript for a chatbot" 
+"Using Rivescript for building a chatbot" 
